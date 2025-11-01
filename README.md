@@ -1,2 +1,2 @@
 # C-Beginner
-Complete C Programming
+Complete C Programming with Kuntal Biswas
